@@ -8,7 +8,7 @@ I am an IT undergraduate who have experience in full stack development, UX & UI 
 
 * 🌍  I'm based in Panadura
 * 🖥️  See my portfolio at [My Personal Web](http://akhila-sanjeewa.netlify.app/)
-* ✉️  You can contact me at [akilasanjeewaiif21@uom.lk](mailto:akilasanjeewaiif21@uom.lk)
+* ✉️  You can contact me at [akilasanjeewaiif21@uom.lk](mailto:akilasanjeewaiif21@gmail.com)
 * 🧠  I'm learning Next js and Nest js
 * ⚡  I'm a fan of the right brain 𖡎
 
